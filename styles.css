@@ -1,0 +1,36 @@
+body {
+    font-family: Arial;
+    background-color: #fae3ec;
+    color: #807a6e;
+    text-align:center;
+}
+
+h1 {
+    color: #a8a297;
+}
+
+.result {
+    margin-top: 20px;
+    margin-left: 100px;
+}
+
+img {
+    height: 350px;
+    border: 5px inset #a8a297;
+}
+
+button{
+	margin:20px;
+    padding:5px;
+    background-color:#d6c3c9;
+    color:#736351;
+}
+
+::placeholder{
+	color:#e0dfde;
+    border:#e0dfde;
+}
+
+input{
+	background-color:#b5a486;
+}
